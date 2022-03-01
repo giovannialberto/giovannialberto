@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello there! My name is Giovanni. 
+
+I'm a nerd 🤓 who likes building products that people use.
+
+I'm passionate about cybersecurity and AI. 🤖
+
+I founded [Twenty Watts](https://github.com/twenty-watts) and serve as Chief Product Officer at [Exein](https://github.com/Exein-io). 🚀
