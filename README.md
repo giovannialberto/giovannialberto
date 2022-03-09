@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there! My name is Giovanni. 
+My name is Giovanni, I'm a nerd from Italy 🇮🇹 who loves building stuff.
 
-I'm a nerd 🤓 who likes building products that people use.
+I'm passionate about physics, cybersecurity and AI. 🤖
 
-I'm passionate about cybersecurity and AI. 🤖
-
-I founded [Twenty Watts](https://github.com/twenty-watts) and serve as Chief Product Officer at [Exein](https://github.com/Exein-io). 🚀
+I am the Chief Product Officer at [Exein](https://github.com/Exein-io) and founder of [Twenty Watts](https://github.com/twenty-watts). 🚀
